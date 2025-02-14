@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "728577396575",
+    "firebase_url": "https://greenvolunteers-c43b4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "greenvolunteers-c43b4",
+    "storage_bucket": "greenvolunteers-c43b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728577396575:android:d8208851327a0773ac30ea",
+        "android_client_info": {
+          "package_name": "com.intellion.GreenVolunteers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxk5WEHHL_HIubuFm7sx04pI5jff49so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728577396575:android:4a1a43c4067a4b66ac30ea",
+        "android_client_info": {
+          "package_name": "com.intellion.greenAWS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxk5WEHHL_HIubuFm7sx04pI5jff49so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
